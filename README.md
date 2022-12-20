@@ -20,8 +20,14 @@ The Horiseon Marketing Agency required a code refactor for their website's homep
 This webpage can be viewed on regular desktop browsers. 
 /* ADD IMAGE OF WEBPAGE HERE */
 
-## Project Links
- 
+## Project Links and Screenshot
+ The following image demonstrates the web application's appearance and functionality:
+
+![Webpage screenshot](./assets/images/Screenshot.png) 
+[Link to live webpage](https://olive-provencio-johnson.github.io/horiseon-refactoring/)
+
+
+
 
  
 ## Credits
