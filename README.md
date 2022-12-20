@@ -23,8 +23,8 @@ This webpage can be viewed on regular desktop browsers.
 ## Project Links and Screenshot
  The following image demonstrates the web application's appearance and functionality:
 
-![Webpage screenshot](./assets/Screenshot.png)
-
+![Webpage screenshot](./assets/images/Screenshot.png) 
+[Link to live webpage](https://olive-provencio-johnson.github.io/horiseon-refactoring/)
 
 
 
